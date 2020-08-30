@@ -1,4 +1,4 @@
-# Mission-to-Mars
+# Mission to Mars
 
 ## Background
 Build a web application that scrapes data from Nasa website re;ated to Mission to Mars and displays the information in a html page.
@@ -29,3 +29,6 @@ In app.py, use flask_pymongo to set up mongo connection.
 A root route is created to query the Mongo database and pass the mars data into the html template to show the data.
 Route called /scraping is created to import scrapping.py script and call the scrape function.
 A template HTML file called index.html is created to take the mars data dictionary and show all of the data in the appropriate HTML elements
+
+
+
