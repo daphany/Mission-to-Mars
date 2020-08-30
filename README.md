@@ -30,5 +30,5 @@ A root route is created to query the Mongo database and pass the mars data into 
 Route called /scraping is created to import scrapping.py script and call the scrape function.
 A template HTML file called index.html is created to take the mars data dictionary and show all of the data in the appropriate HTML elements
 
-<img src="screenshot.PNG" width="900"> 
+<img src="screenshot.png" width="900"> 
 
