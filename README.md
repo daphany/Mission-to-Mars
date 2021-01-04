@@ -1,6 +1,6 @@
 # Mission to Mars
 
-## Background
+## Overview
 Build a web application that scrapes data from Nasa website re;ated to Mission to Mars and displays the information in a html page.
 
 ## Result
